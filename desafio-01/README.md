@@ -42,7 +42,7 @@ O Notion funciona tanto em plataformas mobile, tanto em plataformas desktop, e a
 
 Para começar a utilizar o modelo, você deve acessar o link disponibilizado abaixo, e clicar no botão "Duplicate" que fica no menu do canto superior direito da tela. 
 
-📄 **[Link para o modelo](https://www.notion.so/Cronograma-de-estudos-e390bc8d2f5743668ec03348a3306070)**
+📄 **[Link para o modelo](https://www.notion.so/Cronograma-de-estudos-00978edf4bec40f480ecc1c359e33723)**
 
 ### Definindo o cronograma semanal
 
